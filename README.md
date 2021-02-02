@@ -1,5 +1,6 @@
 # Ralfs_Repins_DP14_Darbs
 Darbs
+
 Labdiem, mani sauc Ralfs Repins, esmu no jaunmārupes un es mācos Rīgas Valsts tehnikumā.
 Man ir 17 gadi un es eju Datora Proframmešanas pirmajā kursā ceturtajā grupā.
 Man ir pāris hobbiji kā piemēram lasīt Japāņu komiksus, spelēt videospēles kā piemēram CS:GO, skatīties videos youtubē un sarunāties ar cilvēkiem discordā.
