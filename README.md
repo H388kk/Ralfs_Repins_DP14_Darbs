@@ -8,9 +8,12 @@ Man patīk macītites par programmetāju laigan daudzko vel nezinu, programmēš
 [Pirmā bilde](C:\Users\h388k\Desktop\DP1-4\Intro_in_git_DP14\BoBa.jpg.png)
 
 [Otrā bilde](https://www.google.com/search?q=jgy&tbm=isch&ved=2ahUKEwiU3qWB9sruAhWN-yoKHf7ODXoQ2-cCegQIABAA&oq=jgy&gs_lcp=CgNpbWcQAzICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADICCAA6BAgjECdQ9LoBWJ27AWCovwFoAHAAeACAAZQBiAGBA5IBAzAuM5gBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=-R8ZYNT9MI33qwH-nbfQBw&bih=876&biw=1600#imgrc=tEBt1UiAan76aM)
-#|Kartupelis|Tomāts|Sīpols|
-#|Cepure    |Šale  |Cimdi |
-#|Māja      |Mašīna|Jumts |
+
+|Kartupelis|Tomāts|Sīpols|
+
+|Cepure    |Šale  |Cimdi |
+
+|Māja      |Mašīna|Jumts |
 - [x] Sakārto māju.
 - [ ] Izved suni pastaigā.
 - [X] Iztīri mašīnu.
