@@ -8,8 +8,8 @@ x=1
 z=2
 c=z+x
 print(c)
-![alt text](BoBa.jpg)
-[title](https://www.google.com/search?q=jgy&tbm=isch&ved=2ahUKEwiU3qWB9sruAhWN-yoKHf7ODXoQ2-cCegQIABAA&oq=jgy&gs_lcp=CgNpbWcQAzICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADICCAA6BAgjECdQ9LoBWJ27AWCovwFoAHAAeACAAZQBiAGBA5IBAzAuM5gBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=-R8ZYNT9MI33qwH-nbfQBw&bih=876&biw=1600#imgrc=tEBt1UiAan76aM)
+[Pirmā bilde]  ![alt text](BoBa.jpg)
+[Otrā bilde](https://www.google.com/search?q=jgy&tbm=isch&ved=2ahUKEwiU3qWB9sruAhWN-yoKHf7ODXoQ2-cCegQIABAA&oq=jgy&gs_lcp=CgNpbWcQAzICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADICCAA6BAgjECdQ9LoBWJ27AWCovwFoAHAAeACAAZQBiAGBA5IBAzAuM5gBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=-R8ZYNT9MI33qwH-nbfQBw&bih=876&biw=1600#imgrc=tEBt1UiAan76aM)
 """
 |Kartupelis|Tomāts|Sīpols|
 |Cepure    |Šale  |Cimdi |
