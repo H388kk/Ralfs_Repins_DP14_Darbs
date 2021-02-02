@@ -24,6 +24,5 @@ Man patīk macītites par programmetāju laigan daudzko vel nezinu, programmēš
 - [X] Iztīri mašīnu.
 - [ ] Aizej uz veikalu.
 ------------------------
-========================
 ________________________
 #🦾🤖👾
