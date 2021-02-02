@@ -15,11 +15,11 @@ Man patīk macītites par programmetāju laigan daudzko vel nezinu, programmēš
   c = z + x
   print(c)
 
-|Kartupelis|Tomāts|Sīpols|
+|Kartupelis |Tomāts   |Sīpols|
 
-|Cepure    |Šale  |Cimdi |
+|Cepure     |Šale     |Cimdi |
 
-|Māja      |Mašīna|Jumts |
+|Māja       |Mašīna   |Jumts |
 - [x] Sakārto māju.
 - [ ] Izved suni pastaigā.
 - [X] Iztīri mašīnu.
